@@ -1,0 +1,17 @@
+Fontes oficiais Brasil Terra (gratuitas, licença SIL Open Font License 1.1, uso comercial permitido)
+
+Montserrat (títulos, números de destaque, botões)
+  Google Fonts: https://fonts.google.com/specimen/Montserrat
+  Repositório oficial: https://github.com/JulietaUla/Montserrat
+
+Source Sans 3 (texto corrido, tabelas, interfaces)
+  Google Fonts: https://fonts.google.com/specimen/Source+Sans+3
+  Repositório oficial: https://github.com/adobe-fonts/source-sans
+
+Contingência (quando as fontes da marca não estiverem instaladas)
+  Word / PowerPoint / Excel: Arial (títulos) + Calibri (texto)
+  E-mail: Arial, Helvetica, sans-serif
+  SharePoint / Teams: Segoe UI
+
+A pasta fonts/ contém subconjuntos WOFF (latim + latim estendido) para uso web, com as licenças OFL.
+Para instalar no computador (Word, PowerPoint), baixe os arquivos TTF/OTF pelos links acima.

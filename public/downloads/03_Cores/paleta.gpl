@@ -1,0 +1,30 @@
+GIMP Palette
+Name: Brasil Terra
+Columns: 6
+#
+  6  62 155	Azul Meridiano
+254 191  38	Amarelo Safra
+  0   0   0	Preto Norte
+  3  27  71	Azul Profundo
+ 14  90  60	Verde Floresta
+181  83  44	Terracota Terra
+125 179 232	Céu Aberto
+217 137  11	Âmbar Campo
+ 38  42  51	Grafite Rio
+ 75  82  96	Grafite Claro
+154 161 173	Cinza Névoa
+228 231 236	Bruma
+246 244 238	Papel Terra
+255 255 255	Branco
+ 31 122  77	Sucesso
+163  95   0	Alerta
+179  38  30	Erro
+ 31  95 191	Informação
+  6  62 155	Dado 1 · Meridiano
+217 137  11	Dado 2 · Âmbar
+125 179 232	Dado 3 · Céu
+ 14  90  60	Dado 4 · Floresta
+181  83  44	Dado 5 · Terracota
+142  91 168	Dado 6 · Ametista
+ 95 107 122	Dado 7 · Ardósia
+254 191  38	Dado 8 · Safra
